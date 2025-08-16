@@ -1,0 +1,6 @@
+Add shared schemas and types
+
+- Complete database schema with all tables (users, posts, music, dating, etc.)
+- Drizzle relations and TypeScript types
+- Paystack subscription models
+- Ready for database migrations
