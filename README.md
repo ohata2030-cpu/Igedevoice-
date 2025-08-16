@@ -1,2 +1,6 @@
-# Igedevoice-
-IgedeVoice - Cultural community platform with Paystack payments, music streaming, and dating features
+Initial setup: Core configuration files
+
+- TypeScript, Vite, and Tailwind configuration
+- shadcn/ui component setup
+- Drizzle database configuration
+- Project build and development tools
